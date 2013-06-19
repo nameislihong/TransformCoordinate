@@ -1,0 +1,720 @@
+TMap
+v6
+r1
+cCheck dependencies
+cMkDir /Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app
+cProcessInfoPlistFile /Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/Info.plist /Users/lt/Desktop/Map/Map/Map-Info.plist
+cCpResource /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/ResourceRules.plist
+cProcessPCH /Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/PrecompiledHeaders/Map-Prefix-fvjtqiqunqwofzeromsrbmycmype/Map-Prefix.pch.pch Map/Map-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Objects-normal/armv7s/main.o /Users/lt/Desktop/Map/Map/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Objects-normal/armv7s/AppDelegate.o /Users/lt/Desktop/Map/Map/AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Objects-normal/armv7s/Annotation.o /Users/lt/Desktop/Map/Map/Annotation.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Objects-normal/armv7s/TransformCoordinate.o /Users/lt/Desktop/Map/Map/TransformCoordinate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Objects-normal/armv7s/ViewController.o /Users/lt/Desktop/Map/Map/ViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/Map normal armv7s
+cGenerateDSYMFile /Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app.dSYM /Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/Map
+cCopyStringsFile /Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/en.lproj/InfoPlist.strings Map/en.lproj/InfoPlist.strings
+cCopyPNGFile /Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/Default.png Map/Default.png
+cCopyPNGFile /Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/Default@2x.png Map/Default@2x.png
+cCopyPNGFile /Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/Default-568h@2x.png Map/Default-568h@2x.png
+cCompileXIB /Users/lt/Desktop/Map/Map/en.lproj/ViewController.xib
+cTouch /Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app
+cProcessProductPackaging /Users/lt/Library/MobileDevice/Provisioning\ Profiles/8CA5A4DB-E07A-483F-838C-914C1E2F8347.mobileprovision /Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/embedded.mobileprovision
+cMkDir /Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app
+cProcessProductPackaging /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist /Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Map.xcent
+cCodeSign /Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app
+
+N/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk
+c0000000051B0DA540000000000000132
+t1370544724
+s306
+
+N/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist
+c0000000051B0E74F0000000000000094
+t1370548047
+s148
+
+N/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist
+c0000000051B0E74F0000000000000096
+t1370548047
+s150
+
+N/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/SDKSettings.plist
+c0000000051B0E74F000000000000036B
+t1370548047
+s875
+
+N/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000051B0E75300000000000001A0
+t1370548051
+s416
+
+N/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c0000000051B0E75700000000004D1360
+t1370548055
+s5051232
+
+N/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000051B0E7570000000000300090
+t1370548055
+s3145872
+
+N/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c0000000051B0E75700000000000D0FC0
+t1370548055
+s856000
+
+N/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000051B0E75800000000006A9900
+t1370548056
+s6985984
+
+N/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c0000000051B0E75A000000000022AED0
+t1370548058
+s2272976
+
+N/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000051B0E75E00000000016BB600
+t1370548062
+s23836160
+
+N/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c0000000051B0E7650000000000232680
+t1370548069
+s2303616
+
+N/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/crt1.3.1.o
+c0000000051B0E77100000000000102B0
+t1370548081
+s66224
+
+N/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libSystem.B.dylib
+c0000000051B0E7720000000000011250
+t1370548082
+s70224
+
+N/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libobjc.A.dylib
+c0000000051B0E77200000000003787C0
+t1370548082
+s3639232
+
+N/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcache.dylib
+c0000000051B0E7730000000000018490
+t1370548083
+s99472
+
+N/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcommonCrypto.dylib
+c0000000051B0E773000000000002B2B0
+t1370548083
+s176816
+
+N/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcompiler_rt.dylib
+c0000000051B0E773000000000002A780
+t1370548083
+s173952
+
+N/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcopyfile.dylib
+c0000000051B0E773000000000001AEF0
+t1370548083
+s110320
+
+N/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcorecrypto.dylib
+c0000000051B0E7730000000000092E90
+t1370548083
+s601744
+
+N/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdispatch.dylib
+c0000000051B0E773000000000006CDB0
+t1370548083
+s445872
+
+N/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdyld.dylib
+c0000000051B0E7730000000000011770
+t1370548083
+s71536
+
+N/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libkeymgr.dylib
+c0000000051B0E773000000000000BF00
+t1370548083
+s48896
+
+N/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/liblaunch.dylib
+c0000000051B0E7730000000000020100
+t1370548083
+s131328
+
+N/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libmacho.dylib
+c0000000051B0E7730000000000013D40
+t1370548083
+s81216
+
+N/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libremovefile.dylib
+c0000000051B0E77300000000000111B0
+t1370548083
+s70064
+
+N/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_asl.dylib
+c0000000051B0E7730000000000031170
+t1370548083
+s201072
+
+N/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_blocks.dylib
+c0000000051B0E773000000000000BE90
+t1370548083
+s48784
+
+N/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_c.dylib
+c0000000051B0E77300000000001125A0
+t1370548083
+s1123744
+
+N/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_configuration.dylib
+c0000000051B0E7730000000000012FF0
+t1370548083
+s77808
+
+N/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_dnssd.dylib
+c0000000051B0E773000000000001BA60
+t1370548083
+s113248
+
+N/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_info.dylib
+c0000000051B0E7730000000000053430
+t1370548083
+s341040
+
+N/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_kernel.dylib
+c0000000051B0E7730000000000071090
+t1370548083
+s462992
+
+N/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_m.dylib
+c0000000051B0E7730000000000050650
+t1370548083
+s329296
+
+N/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_malloc.dylib
+c0000000051B0E77300000000000386E0
+t1370548083
+s231136
+
+N/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_network.dylib
+c0000000051B0E773000000000007A2E0
+t1370548083
+s500448
+
+N/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_notify.dylib
+c0000000051B0E7730000000000021D10
+t1370548083
+s138512
+
+N/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_platform.dylib
+c0000000051B0E773000000000001BA30
+t1370548083
+s113200
+
+N/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_pthread.dylib
+c0000000051B0E773000000000001BBF0
+t1370548083
+s113648
+
+N/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_sandbox.dylib
+c0000000051B0E77300000000000119D0
+t1370548083
+s72144
+
+N/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_stats.dylib
+c0000000051B0E7730000000000012C10
+t1370548083
+s76816
+
+N/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libunwind.dylib
+c0000000051B0E77300000000000113C0
+t1370548083
+s70592
+
+N/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libxpc.dylib
+c0000000051B0E7730000000000090220
+t1370548083
+s590368
+
+N/Applications/Xcode5-DP.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_iphoneos.a
+c0000000051B0E7210000000000014260
+t1370548001
+s82528
+
+N/Applications/Xcode5-DP.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+c0000000051A97CC70000000000004AC8
+t1370062023
+s19144
+
+N/Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Map.xcent
+t1371627094
+s398
+
+N/Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Objects-normal/armv7s/Annotation.o
+t1371627087
+s10248
+
+N/Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Objects-normal/armv7s/AppDelegate.o
+t1371627087
+s67964
+
+N/Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Objects-normal/armv7s/Map.LinkFileList
+c0000000051C15E4E0000000000000288
+t1371627086
+s648
+
+N/Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Objects-normal/armv7s/TransformCoordinate.o
+t1371627087
+s6284
+
+N/Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Objects-normal/armv7s/ViewController.o
+t1371627454
+s65496
+
+N/Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Objects-normal/armv7s/main.o
+t1371627087
+s3312
+
+N/Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/PrecompiledHeaders/Map-Prefix-fvjtqiqunqwofzeromsrbmycmype/Map-Prefix.pch.pch
+t1371627087
+s5230988
+
+N/Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app
+t1371627454
+s408
+
+N/Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app.dSYM
+t1371627323
+s102
+
+N/Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/Default-568h@2x.png
+t1371627088
+s7014
+
+N/Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/Default.png
+t1371627088
+s3688
+
+N/Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/Default@2x.png
+t1371627088
+s6316
+
+N/Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/Info.plist
+t1371627086
+s1051
+
+N/Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/Map
+t1371627454
+s64600
+
+N/Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/PkgInfo
+t1371627086
+s8
+
+N/Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/ResourceRules.plist
+t1371627087
+s150
+
+N/Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/embedded.mobileprovision
+t1371627094
+s10540
+
+N/Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/en.lproj/InfoPlist.strings
+t1371627088
+s42
+
+N/Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/en.lproj/ViewController.nib
+t1371627094
+s1901
+
+N/Users/lt/Desktop/Map/Map/Annotation.h
+c0000000051C122DE0000000000000174
+t1371611870
+s372
+
+N/Users/lt/Desktop/Map/Map/Annotation.m
+c0000000051C1252E0000000000000121
+t1371612462
+s289
+
+N/Users/lt/Desktop/Map/Map/AppDelegate.h
+c0000000051C11E8F000000000000015F
+t1371610767
+s351
+
+N/Users/lt/Desktop/Map/Map/AppDelegate.m
+c0000000051C11E8F00000000000008F2
+t1371610767
+s2290
+
+N/Users/lt/Desktop/Map/Map/Default-568h@2x.png
+c0000000050748B2300000000000048A2
+t1349815075
+s18594
+
+N/Users/lt/Desktop/Map/Map/Default.png
+c0000000050748B23000000000000198C
+t1349815075
+s6540
+
+N/Users/lt/Desktop/Map/Map/Default@2x.png
+c0000000050748B230000000000003EEB
+t1349815075
+s16107
+
+N/Users/lt/Desktop/Map/Map/Map-Info.plist
+c0000000051C11E8F000000000000048D
+t1371610767
+s1165
+
+N/Users/lt/Desktop/Map/Map/Map-Prefix.pch
+c0000000051C11E8F0000000000000135
+t1371610767
+s309
+
+N/Users/lt/Desktop/Map/Map/TransformCoordinate.h
+c0000000051C15DCE000000000000010C
+t1371626958
+s268
+
+N/Users/lt/Desktop/Map/Map/TransformCoordinate.m
+c0000000051C15DCE00000000000007FE
+t1371626958
+s2046
+
+N/Users/lt/Desktop/Map/Map/ViewController.h
+c0000000051C11E8F00000000000000CA
+t1371610767
+s202
+
+N/Users/lt/Desktop/Map/Map/ViewController.m
+c0000000051C15FBE00000000000009C6
+t1371627454
+s2502
+
+N/Users/lt/Desktop/Map/Map/en.lproj/InfoPlist.strings
+c0000000051C11E8F000000000000002D
+t1371610767
+s45
+
+N/Users/lt/Desktop/Map/Map/en.lproj/ViewController.xib
+c0000000051C1252E0000000000001B7D
+t1371612462
+s7037
+
+N/Users/lt/Desktop/Map/Map/main.m
+c0000000051C11E8F0000000000000143
+t1371610767
+s323
+
+N/Users/lt/Library/MobileDevice/Provisioning Profiles/8CA5A4DB-E07A-483F-838C-914C1E2F8347.mobileprovision
+c0000000051BFDB06000000000000292C
+t1371527942
+s10540
+
+CBuild AST from /Users/lt/Desktop/Map/Map/Annotation.m
+r0
+
+CBuild AST from /Users/lt/Desktop/Map/Map/AppDelegate.m
+r0
+
+CBuild AST from /Users/lt/Desktop/Map/Map/TransformCoordinate.m
+r0
+
+CBuild AST from /Users/lt/Desktop/Map/Map/ViewController.m
+r0
+
+CBuild AST from /Users/lt/Desktop/Map/Map/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies73bb273e9771b741^3413283e9771b741^---0#1#1#--18"Check dependencies36"77A24744-9DE2-47B0-8B07-6B6CCDA6D808-
+
+CCodeSign /Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app
+s393320254.337395
+e393320254.491747
+r1
+xCodeSign
+x/Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"CodeSign DerivedData/Map/Build/Products/Debug-iphoneos/Map.app62"CodeSign DerivedData/Map/Build/Products/Debug-iphoneos/Map.app8f70563e9771b741^c9e37d3e9771b741^---0#0#1#-19%DVTDocumentLocation2@92"file://localhost/Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/0000000000000000^976"CodeSign DerivedData/Map/Build/Products/Debug-iphoneos/Map.app    cd /Users/lt/Desktop/Map    setenv CODESIGN_ALLOCATE /Applications/Xcode5-DP.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    Using code signing identity "iPhone Developer: Tan Yujun (Q2W299L9GQ)" and provisioning profile "iOS Team Provisioning Profile: *" (8CA5A4DB-E07A-483F-838C-914C1E2F8347)    codesign --force --sign 02D337A943C8337D5E2EBBE0259EE0082861C57E --resource-rules=/Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/ResourceRules.plist --entitlements /Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Map.xcent /Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app36"A59D0ED0-044B-4452-BA12-41448B3BD36E-
+bBF1B9B59-6B38-4BCF-90A9-3C3B20B7291A
+
+CCompileC DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Objects-normal/armv7s/Annotation.o /Users/lt/Desktop/Map/Map/Annotation.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393319887.615761
+e393319887.807092
+r1
+xCompileC
+xDerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Objects-normal/armv7s/Annotation.o
+x/Users/lt/Desktop/Map/Map/Annotation.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lt/Desktop/Map/Map/Annotation.m
+d/Users/lt/Desktop/Map/Map/Annotation.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Compile /Users/lt/Desktop/Map/Map/Annotation.m201"CompileC DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Objects-normal/armv7s/Annotation.o Map/Annotation.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler87c49dcf9571b741^2ba2cecf9571b741^---0#0#1#-19%DVTDocumentLocation2@54"file://localhost/Users/lt/Desktop/Map/Map/Annotation.m0000000000000000^3187"CompileC DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Objects-normal/armv7s/Annotation.o Map/Annotation.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lt/Desktop/Map    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode5-DP.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Map-generated-files.hmap -I/Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Map-own-target-headers.hmap -I/Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Map-all-target-headers.hmap -iquote /Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Map-project-headers.hmap -I/Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/include -I/Applications/Xcode5-DP.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/DerivedSources/armv7s -I/Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/DerivedSources -F/Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos -include /Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/PrecompiledHeaders/Map-Prefix-fvjtqiqunqwofzeromsrbmycmype/Map-Prefix.pch -MMD -MT dependencies -MF /Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Objects-normal/armv7s/Annotation.d --serialize-diagnostics /Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Objects-normal/armv7s/Annotation.dia -c /Users/lt/Desktop/Map/Map/Annotation.m -o /Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Objects-normal/armv7s/Annotation.o36"98C51B54-55C7-4384-A04C-060B26A8A108-
+b4362369F-9F36-4DF7-A693-0B4E59964813
+
+CCompileC DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Objects-normal/armv7s/AppDelegate.o /Users/lt/Desktop/Map/Map/AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393319887.615736
+e393319887.824296
+r1
+xCompileC
+xDerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Objects-normal/armv7s/AppDelegate.o
+x/Users/lt/Desktop/Map/Map/AppDelegate.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lt/Desktop/Map/Map/AppDelegate.m
+d/Users/lt/Desktop/Map/Map/AppDelegate.h
+d/Users/lt/Desktop/Map/Map/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Compile /Users/lt/Desktop/Map/Map/AppDelegate.m203"CompileC DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Objects-normal/armv7s/AppDelegate.o Map/AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilerf0c39dcf9571b741^8505d3cf9571b741^---0#0#1#-19%DVTDocumentLocation2@55"file://localhost/Users/lt/Desktop/Map/Map/AppDelegate.m0000000000000000^3193"CompileC DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Objects-normal/armv7s/AppDelegate.o Map/AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lt/Desktop/Map    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode5-DP.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Map-generated-files.hmap -I/Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Map-own-target-headers.hmap -I/Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Map-all-target-headers.hmap -iquote /Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Map-project-headers.hmap -I/Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/include -I/Applications/Xcode5-DP.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/DerivedSources/armv7s -I/Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/DerivedSources -F/Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos -include /Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/PrecompiledHeaders/Map-Prefix-fvjtqiqunqwofzeromsrbmycmype/Map-Prefix.pch -MMD -MT dependencies -MF /Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Objects-normal/armv7s/AppDelegate.d --serialize-diagnostics /Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Objects-normal/armv7s/AppDelegate.dia -c /Users/lt/Desktop/Map/Map/AppDelegate.m -o /Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Objects-normal/armv7s/AppDelegate.o36"B60B0283-4FE8-40F3-8DAA-B9FAA464CB70-
+b4362369F-9F36-4DF7-A693-0B4E59964813
+
+CCompileC DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Objects-normal/armv7s/TransformCoordinate.o /Users/lt/Desktop/Map/Map/TransformCoordinate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393319887.808488
+e393319887.840956
+r1
+xCompileC
+xDerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Objects-normal/armv7s/TransformCoordinate.o
+x/Users/lt/Desktop/Map/Map/TransformCoordinate.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lt/Desktop/Map/Map/TransformCoordinate.m
+d/Users/lt/Desktop/Map/Map/TransformCoordinate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Compile /Users/lt/Desktop/Map/Map/TransformCoordinate.m219"CompileC DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Objects-normal/armv7s/TransformCoordinate.o Map/TransformCoordinate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler7a17cfcf9571b741^fd4ad7cf9571b741^---0#0#1#-19%DVTDocumentLocation2@63"file://localhost/Users/lt/Desktop/Map/Map/TransformCoordinate.m0000000000000000^3241"CompileC DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Objects-normal/armv7s/TransformCoordinate.o Map/TransformCoordinate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lt/Desktop/Map    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode5-DP.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Map-generated-files.hmap -I/Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Map-own-target-headers.hmap -I/Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Map-all-target-headers.hmap -iquote /Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Map-project-headers.hmap -I/Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/include -I/Applications/Xcode5-DP.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/DerivedSources/armv7s -I/Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/DerivedSources -F/Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos -include /Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/PrecompiledHeaders/Map-Prefix-fvjtqiqunqwofzeromsrbmycmype/Map-Prefix.pch -MMD -MT dependencies -MF /Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Objects-normal/armv7s/TransformCoordinate.d --serialize-diagnostics /Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Objects-normal/armv7s/TransformCoordinate.dia -c /Users/lt/Desktop/Map/Map/TransformCoordinate.m -o /Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Objects-normal/armv7s/TransformCoordinate.o36"02858504-EE88-45AC-B5EF-E97F22164BE6-
+b4362369F-9F36-4DF7-A693-0B4E59964813
+
+CCompileC DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Objects-normal/armv7s/ViewController.o /Users/lt/Desktop/Map/Map/ViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393320254.162322
+e393320254.228048
+r1
+xCompileC
+xDerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Objects-normal/armv7s/ViewController.o
+x/Users/lt/Desktop/Map/Map/ViewController.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lt/Desktop/Map/Map/ViewController.m
+d/Users/lt/Desktop/Map/Map/ViewController.h
+d/Users/lt/Desktop/Map/Map/Annotation.h
+d/Users/lt/Desktop/Map/Map/TransformCoordinate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Compile /Users/lt/Desktop/Map/Map/ViewController.m209"CompileC DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Objects-normal/armv7s/ViewController.o Map/ViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilerc2a3293e9771b741^ae613a3e9771b741^---0#0#1#-19%DVTDocumentLocation2@58"file://localhost/Users/lt/Desktop/Map/Map/ViewController.m0000000000000000^3211"CompileC DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Objects-normal/armv7s/ViewController.o Map/ViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lt/Desktop/Map    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode5-DP.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Map-generated-files.hmap -I/Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Map-own-target-headers.hmap -I/Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Map-all-target-headers.hmap -iquote /Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Map-project-headers.hmap -I/Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/include -I/Applications/Xcode5-DP.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/DerivedSources/armv7s -I/Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/DerivedSources -F/Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos -include /Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/PrecompiledHeaders/Map-Prefix-fvjtqiqunqwofzeromsrbmycmype/Map-Prefix.pch -MMD -MT dependencies -MF /Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Objects-normal/armv7s/ViewController.d --serialize-diagnostics /Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Objects-normal/armv7s/ViewController.dia -c /Users/lt/Desktop/Map/Map/ViewController.m -o /Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Objects-normal/armv7s/ViewController.o36"385C1AD2-6315-49A9-8CA2-03158F523356-
+bBF1B9B59-6B38-4BCF-90A9-3C3B20B7291A
+
+CCompileC DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Objects-normal/armv7s/main.o /Users/lt/Desktop/Map/Map/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393319887.615748
+e393319887.811683
+r1
+xCompileC
+xDerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Objects-normal/armv7s/main.o
+x/Users/lt/Desktop/Map/Map/main.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lt/Desktop/Map/Map/main.m
+d/Users/lt/Desktop/Map/Map/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Compile /Users/lt/Desktop/Map/Map/main.m189"CompileC DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Objects-normal/armv7s/main.o Map/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler69c39dcf9571b741^97cacfcf9571b741^---0#0#1#-19%DVTDocumentLocation2@48"file://localhost/Users/lt/Desktop/Map/Map/main.m0000000000000000^3151"CompileC DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Objects-normal/armv7s/main.o Map/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lt/Desktop/Map    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode5-DP.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Map-generated-files.hmap -I/Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Map-own-target-headers.hmap -I/Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Map-all-target-headers.hmap -iquote /Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Map-project-headers.hmap -I/Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/include -I/Applications/Xcode5-DP.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/DerivedSources/armv7s -I/Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/DerivedSources -F/Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos -include /Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/PrecompiledHeaders/Map-Prefix-fvjtqiqunqwofzeromsrbmycmype/Map-Prefix.pch -MMD -MT dependencies -MF /Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Objects-normal/armv7s/main.d --serialize-diagnostics /Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Objects-normal/armv7s/main.dia -c /Users/lt/Desktop/Map/Map/main.m -o /Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Objects-normal/armv7s/main.o36"62AB5A3D-E561-4B65-95F5-654935889744-
+b4362369F-9F36-4DF7-A693-0B4E59964813
+
+CCompileXIB /Users/lt/Desktop/Map/Map/en.lproj/ViewController.xib
+s393319888.149181
+e393319894.889360
+r1
+xCompileXIB
+x/Users/lt/Desktop/Map/Map/en.lproj/ViewController.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Compiling /Users/lt/Desktop/Map/Map/en.lproj/ViewController.xib42"CompileXIB Map/en.lproj/ViewController.xibc84426d09571b741^14aee3d69571b741^---0#0#1#-19%DVTDocumentLocation2@69"file://localhost/Users/lt/Desktop/Map/Map/en.lproj/ViewController.xib0000000000000000^694"CompileXIB Map/en.lproj/ViewController.xib    cd /Users/lt/Desktop/Map    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode5-DP.app/Contents/Developer/usr/bin/..    /Applications/Xcode5-DP.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 5.0 --output-format human-readable-text --compile /Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/en.lproj/ViewController.nib /Users/lt/Desktop/Map/Map/en.lproj/ViewController.xib36"1F96570D-3DF1-4941-B9D1-131EF3CE0093-
+b4362369F-9F36-4DF7-A693-0B4E59964813
+
+CCopyPNGFile /Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/Default-568h@2x.png Map/Default-568h@2x.png
+s393319888.114767
+e393319888.574974
+r1
+xCopyPNGFile
+x/Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/Default-568h@2x.png
+xMap/Default-568h@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"CopyPNGFile DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/Default-568h@2x.png Map/Default-568h@2x.png109"CopyPNGFile DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/Default-568h@2x.png Map/Default-568h@2x.png26721dd09571b741^6a3293d09571b741^---0#0#1#-19%DVTDocumentLocation2@61"file://localhost/Users/lt/Desktop/Map/Map/Default-568h@2x.png0000000000000000^592"CopyPNGFile DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/Default-568h@2x.png Map/Default-568h@2x.png    cd /Users/lt/Desktop/Map    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/lt/Desktop/Map/Map/Default-568h@2x.png /Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/Default-568h@2x.png36"5653EFA4-4AA3-4F51-823A-AB315040FDE6-
+b4362369F-9F36-4DF7-A693-0B4E59964813
+
+CCopyPNGFile /Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/Default.png Map/Default.png
+s393319888.114528
+e393319888.504305
+r1
+xCopyPNGFile
+x/Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/Default.png
+xMap/Default.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"CopyPNGFile DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/Default.png Map/Default.png93"CopyPNGFile DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/Default.png Map/Default.png0f641dd09571b741^eb1a81d09571b741^---0#0#1#-19%DVTDocumentLocation2@53"file://localhost/Users/lt/Desktop/Map/Map/Default.png0000000000000000^560"CopyPNGFile DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/Default.png Map/Default.png    cd /Users/lt/Desktop/Map    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/lt/Desktop/Map/Map/Default.png /Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/Default.png36"36A5811A-B8B1-473D-BF22-E8610BCDCAA1-
+b4362369F-9F36-4DF7-A693-0B4E59964813
+
+CCopyPNGFile /Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/Default@2x.png Map/Default@2x.png
+s393319888.114543
+e393319888.534249
+r1
+xCopyPNGFile
+x/Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/Default@2x.png
+xMap/Default@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"CopyPNGFile DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/Default@2x.png Map/Default@2x.png99"CopyPNGFile DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/Default@2x.png Map/Default@2x.pnge9641dd09571b741^22c588d09571b741^---0#0#1#-19%DVTDocumentLocation2@56"file://localhost/Users/lt/Desktop/Map/Map/Default@2x.png0000000000000000^572"CopyPNGFile DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/Default@2x.png Map/Default@2x.png    cd /Users/lt/Desktop/Map    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/lt/Desktop/Map/Map/Default@2x.png /Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/Default@2x.png36"C0166F57-E08E-4D84-9254-D2C3EB90364D-
+b4362369F-9F36-4DF7-A693-0B4E59964813
+
+CCopyStringsFile /Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/en.lproj/InfoPlist.strings Map/en.lproj/InfoPlist.strings
+s393319888.114532
+e393319888.147721
+r1
+xCopyStringsFile
+x/Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/en.lproj/InfoPlist.strings
+xMap/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Copy Map/en.lproj/InfoPlist.strings127"CopyStringsFile DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/en.lproj/InfoPlist.strings Map/en.lproj/InfoPlist.strings09711dd09571b741^f6d125d09571b741^---0#0#1#-19%DVTDocumentLocation2@68"file://localhost/Users/lt/Desktop/Map/Map/en.lproj/InfoPlist.strings0000000000000000^562"CopyStringsFile DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/en.lproj/InfoPlist.strings Map/en.lproj/InfoPlist.strings    cd /Users/lt/Desktop/Map    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/en.lproj -- Map/en.lproj/InfoPlist.strings36"0C1D924C-FAC0-4732-B283-11D32778135F-
+b4362369F-9F36-4DF7-A693-0B4E59964813
+
+CCpResource /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/ResourceRules.plist
+s393319887.012354
+e393319887.015215
+r1
+xCpResource
+x/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist
+xDerivedData/Map/Build/Products/Debug-iphoneos/Map.app/ResourceRules.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Copy DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/ResourceRules.plist210"CpResource /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/ResourceRules.plist3e4003cf9571b741^a8e503cf9571b741^---0#0#1#-19%DVTDocumentLocation2@111"file://localhost/Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/ResourceRules.plist0038443ddeffdf42^750"CpResource /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/ResourceRules.plist    cd /Users/lt/Desktop/Map    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist /Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app36"91B8ECA6-9EF3-4D0F-8ED8-CA81C2F2E74B-
+b4362369F-9F36-4DF7-A693-0B4E59964813
+
+CGenerateDSYMFile /Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app.dSYM /Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/Map
+s393320254.277520
+e393320254.295876
+r1
+xGenerateDSYMFile
+x/Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app.dSYM
+x/Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/Map
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Generate /Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app.dSYM133"GenerateDSYMFile DerivedData/Map/Build/Products/Debug-iphoneos/Map.app.dSYM DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/Map8718473e9771b741^ecbe4b3e9771b741^---0#0#1#-19%DVTDocumentLocation2@97"file://localhost/Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app.dSYM/0000000000000000^627"GenerateDSYMFile DerivedData/Map/Build/Products/Debug-iphoneos/Map.app.dSYM DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/Map    cd /Users/lt/Desktop/Map    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode5-DP.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/Map -o /Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app.dSYM36"663FEB6E-B4A2-4D0A-B986-733A252FC185-
+bBF1B9B59-6B38-4BCF-90A9-3C3B20B7291A
+
+CLd /Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/Map normal armv7s
+s393320254.238064
+e393320254.266712
+r1
+xLd
+x/Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/Map
+xnormal
+xarmv7s
+d/Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Objects-normal/armv7s/Map.LinkFileList
+d/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/crt1.3.1.o
+d/Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Objects-normal/armv7s/main.o
+d/Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Objects-normal/armv7s/AppDelegate.o
+d/Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Objects-normal/armv7s/ViewController.o
+d/Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Objects-normal/armv7s/Annotation.o
+d/Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Objects-normal/armv7s/TransformCoordinate.o
+d/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+d/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode5-DP.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_iphoneos.a
+d/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libobjc.A.dylib
+d/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libSystem.B.dylib
+d/Applications/Xcode5-DP.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Link /Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/Map74"Ld DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/Map normal armv7sd2013d3e9771b741^0e4a443e9771b741^---0#0#1#--1286"Ld DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/Map normal armv7s    cd /Users/lt/Desktop/Map    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode5-DP.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7s -isysroot /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos -F/Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos -filelist /Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Objects-normal/armv7s/Map.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=5.0 -framework CoreLocation -framework MapKit -framework UIKit -framework Foundation -framework CoreGraphics -Xlinker -dependency_info -Xlinker /Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Objects-normal/armv7s/Map_dependency_info.dat -o /Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/Map36"FD260EF7-3E9D-4BA3-837F-1DF5AEF7DFB5-
+bBF1B9B59-6B38-4BCF-90A9-3C3B20B7291A
+
+CMkDir /Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app
+s393320254.321975
+e393320254.327528
+r1
+xMkDir
+x/Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"MkDir DerivedData/Map/Build/Products/Debug-iphoneos/Map.app59"MkDir DerivedData/Map/Build/Products/Debug-iphoneos/Map.app397c523e9771b741^88d9533e9771b741^---0#0#1#-19%DVTDocumentLocation2@92"file://localhost/Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/0000000000000000^379"MkDir DerivedData/Map/Build/Products/Debug-iphoneos/Map.app    cd /Users/lt/Desktop/Map    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /bin/mkdir -p /Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app36"2DD31D90-7AD7-4C1E-AF7D-A27370175D49-
+bBF1B9B59-6B38-4BCF-90A9-3C3B20B7291A
+
+CProcessInfoPlistFile /Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/Info.plist /Users/lt/Desktop/Map/Map/Map-Info.plist
+s393319886.948939
+e393319886.979648
+r1
+xProcessInfoPlistFile
+x/Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/Info.plist
+x/Users/lt/Desktop/Map/Map/Map-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Process /Users/lt/Desktop/Map/Map/Map-Info.plist104"ProcessInfoPlistFile DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/Info.plist Map/Map-Info.plist170ff3ce9571b741^c1c9face9571b741^---0#0#1#-19%DVTDocumentLocation2@56"file://localhost/Users/lt/Desktop/Map/Map/Map-Info.plist0000000000000000^954"ProcessInfoPlistFile DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/Info.plist Map/Map-Info.plist    cd /Users/lt/Desktop/Map    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    Map Map  5.0 1 /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk com.apple.compilers.llvm.clang.1_0 0500 5A11314m 11A4372q 11A4372q 12D78    builtin-infoPlistUtility /Users/lt/Desktop/Map/Map/Map-Info.plist -genpkginfo /Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/ResourceRules.plist -o /Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/Info.plist36"122EC4DE-CA5B-4C13-AF33-91ACFEA7A5A7-
+b4362369F-9F36-4DF7-A693-0B4E59964813
+
+CProcessPCH /Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/PrecompiledHeaders/Map-Prefix-fvjtqiqunqwofzeromsrbmycmype/Map-Prefix.pch.pch Map/Map-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393319887.025439
+e393319887.606832
+r1
+xProcessPCH
+x/Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/PrecompiledHeaders/Map-Prefix-fvjtqiqunqwofzeromsrbmycmype/Map-Prefix.pch.pch
+xMap/Map-Prefix.pch
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lt/Desktop/Map/Map/Map-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection29"Precompile Map/Map-Prefix.pch213"ProcessPCH DerivedData/Map/Build/Intermediates/PrecompiledHeaders/Map-Prefix-fvjtqiqunqwofzeromsrbmycmype/Map-Prefix.pch.pch Map/Map-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler11a806cf9571b741^cd599bcf9571b741^---0#0#1#-19%DVTDocumentLocation2@56"file://localhost/Users/lt/Desktop/Map/Map/Map-Prefix.pch0000000000000000^3087"ProcessPCH DerivedData/Map/Build/Intermediates/PrecompiledHeaders/Map-Prefix-fvjtqiqunqwofzeromsrbmycmype/Map-Prefix.pch.pch Map/Map-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lt/Desktop/Map    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode5-DP.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Map-generated-files.hmap -I/Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Map-own-target-headers.hmap -I/Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Map-all-target-headers.hmap -iquote /Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Map-project-headers.hmap -I/Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/include -I/Applications/Xcode5-DP.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/DerivedSources/armv7s -I/Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/DerivedSources -F/Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos --serialize-diagnostics /Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/PrecompiledHeaders/Map-Prefix-fvjtqiqunqwofzeromsrbmycmype/Map-Prefix.pch.dia -MMD -MT dependencies -MF /Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/PrecompiledHeaders/Map-Prefix-fvjtqiqunqwofzeromsrbmycmype/Map-Prefix.pch.d -c /Users/lt/Desktop/Map/Map/Map-Prefix.pch -o /Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/PrecompiledHeaders/Map-Prefix-fvjtqiqunqwofzeromsrbmycmype/Map-Prefix.pch.pch36"B9B48895-5711-483F-BE26-CC37AA914D99-
+b4362369F-9F36-4DF7-A693-0B4E59964813
+
+CProcessPCH /Users/lt/Desktop/Map/DerivedData/Map/Index/PrecompiledHeaders/Map-Prefix-droieignsqtqgegujjnfzwbngqud_ast/Map-Prefix.pch.pch Map/Map-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessProductPackaging /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist /Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Map.xcent
+s393319894.945250
+e393319894.948501
+r1
+xProcessProductPackaging
+x/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist
+x/Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Map.xcent
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection229"ProcessProductPackaging /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Map.xcent229"ProcessProductPackaging /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Map.xcent280cf2d69571b741^8dd1f2d69571b741^---0#0#1#-19%DVTDocumentLocation2@118"file://localhost/Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Map.xcent0038443ddeffdf42^1045"ProcessProductPackaging /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Map.xcent    cd /Users/lt/Desktop/Map    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    86V22YG725. 86V22YG725. /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist {    "application-identifier" = "86V22YG725.*";    "get-task-allow" = 1;    "keychain-access-groups" =     (        "86V22YG725.*"    );}    builtin-productPackagingUtility /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist -entitlements -format xml -o /Users/lt/Desktop/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphoneos/Map.build/Map.xcent36"C1CFA3CB-16B7-4B0B-9833-C84AA78B363C-
+b4362369F-9F36-4DF7-A693-0B4E59964813
+
+CProcessProductPackaging /Users/lt/Library/MobileDevice/Provisioning\ Profiles/8CA5A4DB-E07A-483F-838C-914C1E2F8347.mobileprovision /Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/embedded.mobileprovision
+s393319894.912950
+e393319894.921294
+r1
+xProcessProductPackaging
+x/Users/lt/Library/MobileDevice/Provisioning Profiles/8CA5A4DB-E07A-483F-838C-914C1E2F8347.mobileprovision
+x/Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/embedded.mobileprovision
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection209"ProcessProductPackaging /Users/lt/Library/MobileDevice/Provisioning\ Profiles/8CA5A4DB-E07A-483F-838C-914C1E2F8347.mobileprovision DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/embedded.mobileprovision209"ProcessProductPackaging /Users/lt/Library/MobileDevice/Provisioning\ Profiles/8CA5A4DB-E07A-483F-838C-914C1E2F8347.mobileprovision DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/embedded.mobileprovisionf2cee9d69571b741^05dcebd69571b741^---0#0#1#-19%DVTDocumentLocation2@116"file://localhost/Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/embedded.mobileprovision0038443ddeffdf42^687"ProcessProductPackaging /Users/lt/Library/MobileDevice/Provisioning\ Profiles/8CA5A4DB-E07A-483F-838C-914C1E2F8347.mobileprovision DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/embedded.mobileprovision    cd /Users/lt/Desktop/Map    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"        builtin-productPackagingUtility /Users/lt/Library/MobileDevice/Provisioning\ Profiles/8CA5A4DB-E07A-483F-838C-914C1E2F8347.mobileprovision -o /Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app/embedded.mobileprovision36"7801EB54-F31C-44A8-BE50-A0B9775BD661-
+b4362369F-9F36-4DF7-A693-0B4E59964813
+
+CTouch /Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app
+s393320254.306251
+e393320254.311794
+r1
+xTouch
+x/Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Touch /Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app59"Touch DerivedData/Map/Build/Products/Debug-iphoneos/Map.app97724e3e9771b741^95d24f3e9771b741^---0#0#1#--383"Touch DerivedData/Map/Build/Products/Debug-iphoneos/Map.app    cd /Users/lt/Desktop/Map    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/lt/Desktop/Map/DerivedData/Map/Build/Products/Debug-iphoneos/Map.app36"242A7AE0-DB29-43E9-8068-04308F1DE9CA-
+bBF1B9B59-6B38-4BCF-90A9-3C3B20B7291A
+

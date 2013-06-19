@@ -18,6 +18,10 @@
 		69394EC41771560F00BAE41E /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 69394EC31771560F00BAE41E /* Default-568h@2x.png */; };
 		69394EC71771560F00BAE41E /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 69394EC61771560F00BAE41E /* ViewController.m */; };
 		69394ECA1771560F00BAE41E /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 69394EC81771560F00BAE41E /* ViewController.xib */; };
+		69394ED11771579800BAE41E /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 69394ED01771579800BAE41E /* MapKit.framework */; };
+		69394ED3177157E500BAE41E /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 69394ED2177157E500BAE41E /* CoreLocation.framework */; };
+		69394ED6177159EE00BAE41E /* Annotation.m in Sources */ = {isa = PBXBuildFile; fileRef = 69394ED5177159EE00BAE41E /* Annotation.m */; };
+		69394ED9177194AA00BAE41E /* TransformCoordinate.m in Sources */ = {isa = PBXBuildFile; fileRef = 69394ED8177194AA00BAE41E /* TransformCoordinate.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +41,12 @@
 		69394EC51771560F00BAE41E /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		69394EC61771560F00BAE41E /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		69394EC91771560F00BAE41E /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		69394ED01771579800BAE41E /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		69394ED2177157E500BAE41E /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		69394ED4177159EE00BAE41E /* Annotation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Annotation.h; sourceTree = "<group>"; };
+		69394ED5177159EE00BAE41E /* Annotation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Annotation.m; sourceTree = "<group>"; };
+		69394ED7177194AA00BAE41E /* TransformCoordinate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TransformCoordinate.h; sourceTree = "<group>"; };
+		69394ED8177194AA00BAE41E /* TransformCoordinate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TransformCoordinate.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +54,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				69394ED3177157E500BAE41E /* CoreLocation.framework in Frameworks */,
+				69394ED11771579800BAE41E /* MapKit.framework in Frameworks */,
 				69394EAE1771560F00BAE41E /* UIKit.framework in Frameworks */,
 				69394EB01771560F00BAE41E /* Foundation.framework in Frameworks */,
 				69394EB21771560F00BAE41E /* CoreGraphics.framework in Frameworks */,
@@ -73,6 +85,8 @@
 		69394EAC1771560F00BAE41E /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				69394ED2177157E500BAE41E /* CoreLocation.framework */,
+				69394ED01771579800BAE41E /* MapKit.framework */,
 				69394EAD1771560F00BAE41E /* UIKit.framework */,
 				69394EAF1771560F00BAE41E /* Foundation.framework */,
 				69394EB11771560F00BAE41E /* CoreGraphics.framework */,
@@ -83,12 +97,16 @@
 		69394EB31771560F00BAE41E /* Map */ = {
 			isa = PBXGroup;
 			children = (
+				69394ED4177159EE00BAE41E /* Annotation.h */,
+				69394ED5177159EE00BAE41E /* Annotation.m */,
 				69394EBC1771560F00BAE41E /* AppDelegate.h */,
 				69394EBD1771560F00BAE41E /* AppDelegate.m */,
 				69394EC51771560F00BAE41E /* ViewController.h */,
 				69394EC61771560F00BAE41E /* ViewController.m */,
 				69394EC81771560F00BAE41E /* ViewController.xib */,
 				69394EB41771560F00BAE41E /* Supporting Files */,
+				69394ED7177194AA00BAE41E /* TransformCoordinate.h */,
+				69394ED8177194AA00BAE41E /* TransformCoordinate.m */,
 			);
 			path = Map;
 			sourceTree = "<group>";
@@ -176,6 +194,8 @@
 				69394EBA1771560F00BAE41E /* main.m in Sources */,
 				69394EBE1771560F00BAE41E /* AppDelegate.m in Sources */,
 				69394EC71771560F00BAE41E /* ViewController.m in Sources */,
+				69394ED6177159EE00BAE41E /* Annotation.m in Sources */,
+				69394ED9177194AA00BAE41E /* TransformCoordinate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -263,6 +283,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Map/Map-Prefix.pch";
 				INFOPLIST_FILE = "Map/Map-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -274,6 +295,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Map/Map-Prefix.pch";
 				INFOPLIST_FILE = "Map/Map-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -298,6 +320,7 @@
 				69394ECF1771560F00BAE41E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
